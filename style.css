@@ -1,0 +1,97 @@
+
+.nav{
+    background: #0f5132;
+    overflow: hidden;
+    color: white;
+}
+ul li {
+    list-style: none;
+    display: inline-block;
+}
+li a{
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px
+}
+li a:hover{
+    color: white;
+    background: #052214;
+    border-radius: 5px;
+}
+.main-body{
+    background: url(/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: contain
+    color: white
+}
+.main-body h1{
+    background: #dee2e6;
+    padding: 5px;
+    display: inline-block;
+    margin-bottom: 0px;
+    color: darkslategray;
+}
+.main-body p{
+    background: gray;
+    padding: 5px;
+}
+.container-section{
+    text-align: center;
+}
+.container-section i{
+    font-size: 70px;
+    color: green;
+    padding: 10px;
+}
+h2{
+    text-align:center;
+}
+.hr{
+    height: 3px;
+    width: 100px;
+    background: green;
+    margin: auto;
+}
+.container-section .container{
+    margin-top: 30px;;
+}
+.testimonial{
+    background: url(../office-865091_1920.jpg);
+    color: white;
+    text-align: justify-all
+}
+.client{
+    border-radius: 50% 50%;
+    margin: auto;
+    margin-left: 40%;
+}
+.testimonial-row{
+    margin-bottom: 50px;
+}
+.recent i{
+    font-size: 15px;
+    color: black;
+    padding: 0
+}
+.recent h4{
+    color: green;
+    margin-top: 15px;
+}
+.recent a{
+color: darkgreen;
+font-size: 20px}
+.footer p , h5{
+text-align: left;
+}
+.footer{
+    background: rgb(44,63,86);
+    color: white;
+}
+hr{
+    width: 50px;
+    padding: 0px;
+    margin: 0px;
+    color: white;
+    background: white;
+}
